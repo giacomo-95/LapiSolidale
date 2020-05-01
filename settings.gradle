@@ -1,0 +1,2 @@
+rootProject.name='Vizzolo Solidale'
+include ':app'
